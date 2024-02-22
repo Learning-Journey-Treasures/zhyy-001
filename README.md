@@ -22,7 +22,4 @@
 - 添加的新用户密码默认：123456
 
 #### 3.项目部分截图
-![](http://blog.cyrobot.top/profile/blog/2024/02/22/1_20240222142144A032.png)
-![](http://blog.cyrobot.top/profile/blog/2024/02/22/2_20240222142151A033.png)
-![](http://blog.cyrobot.top/profile/blog/2024/02/22/3_20240222142156A034.png)
-![](http://blog.cyrobot.top/profile/blog/2024/02/22/4_20240222142203A035.png)
+![输入图片说明](1.png)![输入图片说明](2.png)![输入图片说明](3.png)![输入图片说明](4.png)
