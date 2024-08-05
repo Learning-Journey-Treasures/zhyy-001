@@ -1,8 +1,7 @@
  **郑重声明：项目经过本地测试，确保可以运行， 可以用于学习和毕业设计参考~** 
 
-[点我获取源码](https://x-x.fun/e/MVe7b12258F0q)💕🤞
+![gh_17810254f3db_258](https://github.com/user-attachments/assets/0f4a136f-0949-439e-abbe-51f4a0c1e435)
 
-[点我查看更多](http://blog.cyrobot.top/blog)💕🤞
 
 #### 1.项目介绍
 - 实现医院内部的挂号、收费、药房、药库、科室、病床的信息化管理。
