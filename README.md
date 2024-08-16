@@ -1,7 +1,6 @@
  **郑重声明：项目经过本地测试，确保可以运行， 可以用于学习和毕业设计参考~** 
 
-![gh_17810254f3db_258](https://github.com/user-attachments/assets/0f4a136f-0949-439e-abbe-51f4a0c1e435)
-
+**扫码 >> 源码商城 获取** ![qrcode_for_gh_1266b4b5294a_258 (2)](https://github.com/user-attachments/assets/45838afd-19a8-4cdc-bdd5-74b9c76fb241)
 
 #### 1.项目介绍
 - 实现医院内部的挂号、收费、药房、药库、科室、病床的信息化管理。
